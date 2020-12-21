@@ -1,6 +1,6 @@
 # Real-Image-Manipulation-under-Domain-Guided-Noise-Optimization-Mechanism
 
-Notice: the image is not display properly, please download to review.
+Notice: the image is not display properly, please download to review. More Details will be uploaded!
 
 Image2Latent Semantic Results
 ------------
@@ -16,4 +16,4 @@ Manipulate Eye Results
 
 More Details
 ----------------
-Please visit the [Youtube](https://www.youtube.com/watch?v=KrcCRZs7J98&feature=youtu.be) video for better understanding !
+Please visit the [Youtube](https://www.youtube.com/watch?v=KrcCRZs7J98&feature=youtu.be) video for better understanding!
