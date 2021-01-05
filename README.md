@@ -4,9 +4,7 @@ Notice: the image is not display properly, please download to review. More Detai
 
 Image2Latent Semantic Results
 ------------
-<div align="center">
-<img src="https://github.com/GreenLimeSia/Real-Image-Manipulation-under-Domain-Guided-Noise-Optimization-Mechanism/raw/master/DNI-Code/result_file/semantic.png" width="256" height="256"> 
-</div>
+![image](DNI-Code/result_file/eye.mp4)
 
 Manipulate Eye Results
 ------------
