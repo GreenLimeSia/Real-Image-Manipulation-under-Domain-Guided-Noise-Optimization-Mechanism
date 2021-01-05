@@ -5,7 +5,7 @@ Notice: the image is display properly now. The .gif file is converted by using w
 Image2Latent Semantic Results
 ------------
 </div>
-<img src="./DNI-Code/result_file/semantic.png" width="256" height="256"> 
+<img src="./DNI-Code/result_file/semantic.png" width="512" height="512"> 
 </div>
 
 Manipulate Eye Results
