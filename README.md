@@ -13,7 +13,7 @@ Manipulate Eye Results
 | Modifiy Faces | |
 | :-- | :-- |
 | Eye Closed | Pose |
-|</div><img src="./DNI-Code/result_file/eye.gif" width="500" height="512"> </div>|</div><img src="./DNI-Code/result_file/pose.gif" width="500" height="512"></div>|
+|</div><img src="./DNI-Code/result_file/eye.gif" width="256" height="256"> </div>|</div><img src="./DNI-Code/result_file/pose.gif" width="256" height="256"></div>|
 
 More Details
 ----------------
