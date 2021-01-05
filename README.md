@@ -17,7 +17,7 @@ Manipulate Eye Results
 Manipulate Eye Results
 ------------
 <div align="center">
-<img src="https://github.com/GreenLimeSia/Real-Image-Manipulation-under-Domain-Guided-Noise-Optimization-Mechanism/tree/main/DNI-Code/align_images/baby.png" width="256" height="256"> 
+<img src="https://github.com/GreenLimeSia/Real-Image-Manipulation-under-Domain-Guided-Noise-Optimization-Mechanism/tree/main/DNI-Code/align_images/baby_01.png" width="256" height="256"> 
 </div>
 
 More Details
