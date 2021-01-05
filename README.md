@@ -1,6 +1,6 @@
 # Real-Image-Manipulation-under-Domain-Guided-Noise-Optimization-Mechanism
 
-Notice: the image is display properly now. The .gif file is converted by using website tool and some details are missing.
+Notice: the image is display properly now. The .gif file is converted by using website tool and some details are missing. More details will be upload.
 
 Image2Latent Semantic Results
 ------------
