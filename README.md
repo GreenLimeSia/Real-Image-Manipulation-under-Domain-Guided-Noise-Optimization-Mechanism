@@ -15,11 +15,7 @@ Manipulate Eye Results
 | Anime Faces | |
 | :-- | :-- |
 | Pose | Mouth |
-|<div align="center">
-<img src="./DNI-Code/result_file/eye.gif" width="512" height="512"> 
-</div>| <div align="center">
-<img src="./DNI-Code/result_file/eye.gif" width="512" height="512"> 
-</div>|
+|</div><img src="./DNI-Code/result_file/eye.gif" width="512" height="512"> </div>|</div><img src="./DNI-Code/result_file/eye.gif" width="512" height="512"></div>|
 
 More Details
 ----------------
