@@ -10,9 +10,16 @@ Image2Latent Semantic Results
 
 Manipulate Eye Results
 ------------
-<div align="center">
+
+
+| Anime Faces | |
+| :-- | :-- |
+| Pose | Mouth |
+|<div align="center">
 <img src="./DNI-Code/result_file/eye.gif" width="512" height="512"> 
-</div>
+</div>| <div align="center">
+<img src="./DNI-Code/result_file/eye.gif" width="512" height="512"> 
+</div>|
 
 More Details
 ----------------
