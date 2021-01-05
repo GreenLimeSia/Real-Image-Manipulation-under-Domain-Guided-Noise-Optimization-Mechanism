@@ -11,7 +11,7 @@ Image2Latent Semantic Results
 Manipulate Eye Results
 ------------
 <div align="center">
-<img src="./DNI-Code/result_file/eye.mp4" width="512" height="256"> 
+<img src="./DNI-Code/result_file/eye.gif" width="512" height="256"> 
 </div>
 
 More Details
