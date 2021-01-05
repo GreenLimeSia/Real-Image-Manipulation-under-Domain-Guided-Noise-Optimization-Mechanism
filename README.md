@@ -5,7 +5,7 @@ Notice: the image is not display properly, please download to review. More Detai
 Image2Latent Semantic Results
 ------------
 <div align="center">
-<img src="./DNI-Code/align_images/baby_01.png" width="256" height="256"> 
+<img src="./DNI-Code/result_file/semantic.png" width="256" height="256"> 
 </div>
 
 Manipulate Eye Results
