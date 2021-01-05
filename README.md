@@ -4,7 +4,7 @@ Notice: the image is not display properly, please download to review. More Detai
 
 Image2Latent Semantic Results
 ------------
-![image](./DNI-Code/result_file/eye.mp4)
+![image](./DNI-Code/align_images/baby_01.png)
 
 Manipulate Eye Results
 ------------
