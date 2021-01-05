@@ -1,6 +1,6 @@
 # Real-Image-Manipulation-under-Domain-Guided-Noise-Optimization-Mechanism
 
-Notice: the image is not display properly, please download to review. More Details will be uploaded!
+Notice: the image is display properly now.
 
 Image2Latent Semantic Results
 ------------
