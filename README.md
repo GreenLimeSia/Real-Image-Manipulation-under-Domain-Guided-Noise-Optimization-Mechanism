@@ -27,6 +27,9 @@ We also provide a colab version of the notebook: [![](https://colab.research.goo
 Psp Encoder architecture
 ----------------------
 More details for the Psp model, please see [here](https://github.com/eladrich/pixel2style2pixel)
+
+## Related Projects
+
 **[StyleFlow](https://github.com/RameenAbdal/StyleFlow) | [Psp Model](https://github.com/eladrich/pixel2style2pixel) | [StyleGAN2Encoder](https://github.com/bryandlee/stylegan2-encoder-pytorch) | [StyleGAN2](https://github.com/NVlabs/stylegan2)**
 
 More Details
