@@ -10,7 +10,7 @@ Image2Latent Semantic Results
 
 Manipulate Eye Results
 ------------
-| Modify Faces | |
+| Modify Faces | | |
 | :-- | :-- |:-- |
 | Eye Closed | Pose | Star|
 |</div><img src="./DNI-Code/result_file/eye.gif" width="256" height="256"> </div>|</div><img src="./DNI-Code/result_file/pose.gif" width="256" height="256"></div>|</div><img src="./DNI-Code/result_file/star.gif" width="256" height="256"></div>|
