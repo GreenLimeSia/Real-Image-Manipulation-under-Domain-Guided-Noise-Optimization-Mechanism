@@ -18,9 +18,14 @@ Manipulate attribute Results
 Introduction Notebook
 ------------------
 
-We provide a jupyter notebook example to show how to use the anycost generator for image synthesis at diverse costs: `/DNI-code/DNI.ipynb`.
+We provide a jupyter notebook example to show how to use DNI for facial image manipulation: `/DNI-code/DNI.ipynb`.
 
 We also provide a colab version of the notebook: [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iHjxBLK1H2N4FKTamYvkmIiPjMGw-_YL?authuser=1#scrollTo=AjyF24k-UXyb). Be sure to select the GPU as the accelerator in runtime options.
+
+Psp Encoder architecture
+----------------------
+
+**[StyleFlow](https://github.com/RameenAbdal/StyleFlow) | [Psp Model](https://github.com/eladrich/pixel2style2pixel) | [StyleGAN2Encoder](https://github.com/bryandlee/stylegan2-encoder-pytorch) | [StyleGAN2](https://github.com/NVlabs/stylegan2)**
 
 More Details
 ----------------
