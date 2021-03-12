@@ -28,10 +28,10 @@ Psp Encoder architecture
 ----------------------
 More details for the Psp model, please see [here](https://github.com/eladrich/pixel2style2pixel)
 
+## Youtube Video
+
+Please visit the [Youtube](https://www.youtube.com/watch?v=KrcCRZs7J98&feature=youtu.be) video for better understanding!
+
 ## Related Projects
 
 **[StyleFlow](https://github.com/RameenAbdal/StyleFlow) | [Psp Model](https://github.com/eladrich/pixel2style2pixel) | [StyleGAN2Encoder](https://github.com/bryandlee/stylegan2-encoder-pytorch) | [StyleGAN2](https://github.com/NVlabs/stylegan2)**
-
-More Details
-----------------
-Please visit the [Youtube](https://www.youtube.com/watch?v=KrcCRZs7J98&feature=youtu.be) video for better understanding!
