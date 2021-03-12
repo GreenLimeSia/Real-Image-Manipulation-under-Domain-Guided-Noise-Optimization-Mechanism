@@ -20,7 +20,7 @@ Introduction Notebook
 
 We provide a jupyter notebook example to show how to use the anycost generator for image synthesis at diverse costs: `/DNI-code/DNI.ipynb`.
 
-We also provide a colab version of the notebook: [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mit-han-lab/anycost-gan/blob/master/notebooks/intro_colab.ipynb). Be sure to select the GPU as the accelerator in runtime options.
+We also provide a colab version of the notebook: [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iHjxBLK1H2N4FKTamYvkmIiPjMGw-_YL?authuser=1#scrollTo=AjyF24k-UXyb). Be sure to select the GPU as the accelerator in runtime options.
 
 More Details
 ----------------
