@@ -8,7 +8,7 @@ Image2Latent Semantic Results
 <img src="./DNI-Code/result_file/semantic.png" width="512" height="512"> 
 </div>
 
-Manipulate Eye Results
+Manipulate attribute Results
 ------------
 | Modify Faces | | |
 | :-- | :-- |:-- |
