@@ -10,6 +10,13 @@ Image2Latent Semantic Results
 <img src="./DNI-Code/result_file/semantic.png" width="512" height="512"> 
 </div>
 
+
+## Encoding an image into StyleGAN2 latent space
+
+</div>
+<img src="./DNI-Code/result_file/encoding.png" width="512" height="512"> 
+</div>
+
 Manipulate attribute Results
 ------------
 | Modify Faces | | |
