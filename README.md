@@ -41,4 +41,4 @@ Please visit the [Youtube](https://www.youtube.com/watch?v=KrcCRZs7J98&feature=y
 
 ## Related Projects
 
-**[StyleFlow](https://github.com/RameenAbdal/StyleFlow) | [Psp Model](https://github.com/eladrich/pixel2style2pixel) | [StyleGAN2Encoder](https://github.com/bryandlee/stylegan2-encoder-pytorch) | [StyleGAN2](https://github.com/NVlabs/stylegan2)**
+**[StyleFlow](https://github.com/RameenAbdal/StyleFlow) | [PsP Encoder](https://github.com/eladrich/pixel2style2pixel) | [StyleGAN2Encoder](https://github.com/bryandlee/stylegan2-encoder-pytorch) | [StyleGAN2](https://github.com/NVlabs/stylegan2)**
