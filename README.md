@@ -35,7 +35,7 @@ Psp Encoder architecture
 ----------------------
 More details for the Psp model, please see [here](https://github.com/eladrich/pixel2style2pixel).
 
-The graphical of Psp model. The whole architecture is in here: `/DNI-code/DNI.ipynb`.
+The graphical of Psp model. The whole architecture is in here: `/DNI-code/results/Psp_model.pdf`.
 
 </div>
 <img src="./DNI-Code/result_file/PSp.jpg" width="512" height="256"> 
