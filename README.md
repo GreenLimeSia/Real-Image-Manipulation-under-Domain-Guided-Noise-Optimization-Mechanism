@@ -2,7 +2,7 @@
 
 Do facial image Manipulation on Google Colab: [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iHjxBLK1H2N4FKTamYvkmIiPjMGw-_YL?authuser=1#scrollTo=AjyF24k-UXyb)
 
-Notice: the image is display properly now. The .gif file is converted by using website tool and some details are missing. More details will be uploaded.
+Notice: the image is display properly now. The .gif file is converted by using website tool and some details are missing.
 
 Image2Latent Semantic Results
 ------------
