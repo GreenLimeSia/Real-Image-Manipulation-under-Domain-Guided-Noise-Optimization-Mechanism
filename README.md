@@ -45,6 +45,13 @@ The graphical of Psp model. The whole architecture is in here: `/DNI-code/result
 
 Please visit the [Youtube](https://www.youtube.com/watch?v=KrcCRZs7J98&feature=youtu.be) video for better understanding!
 
+## Failure cases
+
+</div>
+<img src="./DNI-Code/result_file/failure.png" width="512" height="256"> 
+</div>
+
+
 ## Related Projects
 
 **[StyleFlow](https://github.com/RameenAbdal/StyleFlow) | [PsP Encoder](https://github.com/eladrich/pixel2style2pixel) | [StyleGAN2Encoder](https://github.com/bryandlee/stylegan2-encoder-pytorch) | [StyleGAN2](https://github.com/NVlabs/stylegan2)**
