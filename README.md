@@ -48,7 +48,8 @@ Please visit the [Youtube](https://www.youtube.com/watch?v=KrcCRZs7J98&feature=y
 ## Failure cases
 
 </div>
-<img src="./DNI-Code/result_file/failure.png" width="512" height="256"> 
+<img src="./DNI-Code/result_file/failure.jpg" width="512" height="256">
+<img src="./DNI-Code/result_file/case.jpg" width="512" height="256">
 </div>
 
 
