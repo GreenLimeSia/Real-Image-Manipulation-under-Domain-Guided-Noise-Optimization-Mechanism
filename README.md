@@ -46,7 +46,7 @@ The graphical of Psp model. The whole architecture is in here: `/DNI-code/result
 Please visit the [Youtube](https://www.youtube.com/watch?v=KrcCRZs7J98&feature=youtu.be) video for better understanding!
 
 ## Failure cases
-There are some failure cases contained in our method when editing a specific attribute. 
+There are some failure cases contained in our method when editing a specific attribute, which is based on cosine similarity metric. 
 </div>
 <img src="./DNI-Code/result_file/Failure.jpg" width="512" height="128">
 <img src="./DNI-Code/result_file/case.jpg" width="512" height="128">
